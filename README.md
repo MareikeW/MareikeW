@@ -25,3 +25,7 @@ Projekte:
 
 🗯 Zitate-App: https://mareikewendler.netlify.app/projekte/zitateapp
 - Tech Stack: HTML5, CSS3, JavaScript, JSON, Chroma.js-Library
+
+<!-- Actual text -->
+
+<p>Schick mir doch gerne eine Nachricht auf <a href="https://www.linkedin.com/in/mareike-wendler/">LinkedIn</p>.</p>
