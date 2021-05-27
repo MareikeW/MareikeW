@@ -11,6 +11,10 @@
 
 Projekte:
 
+👩🏼‍🎨 <a href="https://mareikewendler.netlify.app/projekte/designo" target="_blank">Designo</a>
+- <em>Eine Webseite für eine fiktive Designagentur mit insgesamt sieben Seiten, basierend auf einer Challenge von Frontend-Mentor.</em>
+- <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript (ES6), React.js, React Hooks, React Router, Styled Components
+
 🗂 <a href="https://mareikewendler.netlify.app/projekte/invoice-app" target="_blank">Invoice-App</a> 
 - <em>In dieser React-App können Rechnungen angelegt, bearbeitet und auch wieder aus der Datei gelöscht werden. Das Projekt selbst basiert auf einer Challenge von Frontend-Mentor</em>
 - <strong>Tech Stack:</strong> HTML5, CSS3, JavaScript (ES6), React.js, React Hooks, React Router, React Context, Styled Components, LocalStorage
