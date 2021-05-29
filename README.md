@@ -3,7 +3,7 @@
 <h2>Mein Name ist Mareike und ich bin eine ambitionierte Webentwicklerin aus Südniedersachsen.</h2>
 <p>2019 habe ich angefangen, Programmieren zu lernen und konnte so schon erste Projekte in HTML5, CSS3, SCSS, JavaScript (ES6) und React.js realisieren.</p>
 
-<p>Im Moment liegt mein Fokus auf React.js, weil ich es super finde, meinen Code in kleine Stücke auteilen zu können und dann wie ein Puzzle wieder zusammenzusetzen.</p>
+<p>Im Moment liegt mein Fokus auf React.js, weil ich es super finde, meinen Code in kleine Stücke aufteilen zu können und dann wie ein Puzzle wieder zusammenzusetzen.</p>
 
 <p>In meinem Portfolio stelle ich mehrere meiner Projekte vor und erläutere auch welche Schwierigkeiten ich bei der Erstellung hatte und wie ich diese überwinden konnte.</p>
 
