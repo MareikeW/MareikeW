@@ -8,6 +8,7 @@
 <p>In meinem Portfolio stelle ich mehrere meiner Projekte vor und erläutere auch welche Schwierigkeiten ich bei der Erstellung hatte und wie ich diese überwinden konnte.</p>
 
 <h3>➜ <a href="https://mareikewendler.netlify.app/" target="_blank">Schau Dir hier gerne mal mein Portfolio an.</a></h3>
+<h3>➜ <a href="https://youtu.be/jKBzmj9Nths" target="_blank">Schau dir hier meinen YouTube-Kanal "Code mit Mareike" an.</h3>
 
 Projekte:
 
