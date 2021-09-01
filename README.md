@@ -3,15 +3,19 @@
 <h2>Mein Name ist Mareike und ich bin eine ambitionierte Webentwicklerin aus Südniedersachsen.</h2>
 <p>2019 habe ich angefangen, Programmieren zu lernen und konnte so schon erste Projekte in HTML5, CSS3, SCSS, JavaScript (ES6) und React.js realisieren.</p>
 
-<p>Im Moment liegt mein Fokus auf React.js, weil ich es super finde, meinen Code in kleine Stücke aufteilen zu können und dann wie ein Puzzle wieder zusammenzusetzen.</p>
+<p>Im Moment liegt mein Fokus auf Angular 12 und TypeScript, weil ich neben React auch noch ein Framework lernen möchte.</p>
 
 <p>In meinem Portfolio stelle ich mehrere meiner Projekte vor und erläutere auch welche Schwierigkeiten ich bei der Erstellung hatte und wie ich diese überwinden konnte.</p>
 
 <h3>➜ <a href="https://mareikewendler.netlify.app/" target="_blank">Schau Dir hier gerne mal mein Portfolio an.</a></h3>
-<h3>➜ <a href="https://www.youtube.com/channel/UCMJ9TB8n2PB6NMkXXOeJN9g" target="_blank">Schau Dir hier meinen YouTube-Kanal "Code mit Mareike" an.</a></h3>
+<h3>➜ <a href="https://www.youtube.com/channel/UCMJ9TB8n2PB6NMkXXOeJN9g" target="_blank">Schau Dir hier meinen YouTube-Kanal an.</a></h3>
 <h3>➜ <a href="https://www.linkedin.com/in/mareike-wendler/" target="_blank">Hier findest Du mich auf LinkedIn.</a></h3>
 
 Projekte:
+
+💶 <a href="https://mareikewendler.netlify.app/projekte/fincalc" target="_blank">FinCalc</a>  
+- <em>Im Rahmen eines Gruppenprojektes ist diese Webseite entstanden. Zusammen mit zwei Gleichgesinnten aus den USA und Indien habe ich dieses Tool für die Finanzplanung erstellt. Meine Aufgaben im Projekt waren: Finden von Gruppenmitgliedern, Planung und Organisation des Projekts, Erstellung des Github-Repos, Aufbau des Grundgerüsts der Webseite (React.js + React-Router), sowie Erstellung des Budget Planners (+ Diagramm) und des Savings Calculators (+ Diagramm & Tabelle).</em>
+- <strong>Tech Stack:</strong> SCSS, React (Hooks, Router), Chart.js-Bibliothek/React-Chart.js-2-Bibliothek, Git/Github
 
 👩🏼‍🎨 <a href="https://mareikewendler.netlify.app/projekte/designo" target="_blank">Designo</a>
 - <em>Eine Webseite für eine fiktive Designagentur mit insgesamt sieben Seiten, basierend auf einer Challenge von Frontend-Mentor.</em>
